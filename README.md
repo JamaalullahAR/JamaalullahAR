@@ -22,7 +22,7 @@ Analysis: SIMULINK
 - Worked in the programming language C in visual studio code.
 - [View VEX robot repository](#)
 
-### ⚙️Design and analysis of gearbox (University project)
+### ⚙️ Design and analysis of gearbox (University project)
 - Worked in a trio to design a gear reducer.
 - Calculated gear ratios, torque transmissions and manufacturabilty.
 - [View Gearbox repository](#)
@@ -42,7 +42,7 @@ Analysis: SIMULINK
 - Worked with a main client and stakeholders who worked in the centre.
 - [View work bench repository](#)
 
-### 👚Item storage for early childhood kids (Highschool Project)
+### 👚 Item storage for early childhood kids (Highschool Project)
 - Designed and manufactured an item storage for the early childhood centre.
 - Worked with a main client and stakeholders who worked in the centre.
 - [View item storage repository](#)
@@ -52,6 +52,11 @@ Analysis: SIMULINK
 - Fluid mechanics
 - Automotive systems
 - Product design and development
+
+## 🏆 Certficications
+- [MATLAB onramp certificate](#)
+- [SIMULINK onramp certificate](#)
+- [](#)
 
 ## Contact
 Email : jamaalullah22@gmail.com <br>
