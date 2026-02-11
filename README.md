@@ -1,5 +1,6 @@
-# Hi there 👋
+# Hi👋 I am Jamaalullah
 
+### I am a third year mechanical engineering student, and this is my portfolio and project showcase.
 <!--
 **Jamaal786/Jamaal786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
