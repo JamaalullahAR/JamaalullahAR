@@ -27,7 +27,7 @@ Analysis: SIMULINK
 - Calculated gear ratios, torque transmissions and manufacturabilty.
 - [View Gearbox repository](#)
   
-### 🔬 Dynamic analysis of vibration system in a washing machine (University project)
+### 🔬 Dynamic analysis of vibration system (University project)
 - Analysed vibrational systems of spring-damper systems using fundamental dynamics concepts. 
 - Utilised simulink for analysis.
 - [View Dynamic analysis repository](#)
