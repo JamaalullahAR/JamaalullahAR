@@ -40,5 +40,7 @@ Manufacturing: 3D printing, CNC machining, Welding <br>
 
 ## Contact
 Email : jamaalullah22@gmail.com <br>
-LinkedIN : www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7
+LinkedIN : www.linkedin.com/in/muhammad-jamaalullah-bin-abdul-rahman-16a4092b7 <br>
+CV : [Download CV](#) <br>
+Cover Letter : [Download Cover Letter](#) <br>
 
