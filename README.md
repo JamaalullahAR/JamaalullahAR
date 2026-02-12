@@ -8,7 +8,7 @@ I am a third year mechanical engineering at the University of Auckand. This is a
 CAD: Autodesk Inventor <br>
 Programming: C, MATLAB <br>
 Manufacturing: 3D printing, CNC machining, Welding, Soldering <br>
-Analysis: SIMULINK, mechanical force calculations based on mechanics of solids, materials and machine principles.
+Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, materials and machine principles.
 
 ## Featured Projects
 
