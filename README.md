@@ -8,23 +8,23 @@ I am a third year mechanical engineering at the University of Auckand. This is a
 CAD: Autodesk Inventor <br>
 Programming: C, MATLAB <br>
 Manufacturing: 3D printing, CNC machining, Welding, Soldering <br>
-Analysis: SIMULINK
+Analysis: SIMULINK, mechanical force calculations based on mechanics of solids, materials and machine principles.
 
 ## Featured Projects
 
 ### 🦾 Robotic helper arm (Personal Project)
 - Designed a 3D model of a mechanical robotic arm.
-- Calculated forces and types of stabilishing methods.
+- Calculate forces and types of stabilishing methods.
 - [View Robotic helper arm repository](#)
 
 ### 🤖 VEX robot tasks (University project)
 - Worked in pairs with VEX robots to complete required tasks.
-- Worked in the programming language C in visual studio code.
+- My role: working with C, programmed VEX robot to lift arm up and down with PI control, follow a line, and draw up flowcharts of our working code.
 - [View VEX robot repository](#)
 
 ### ⚙️ Design and analysis of gearbox (University project)
 - Worked in a trio to design a gear reducer.
-- Calculated gear ratios, torque transmissions and manufacturabilty.
+- My role: Checked calculated gear ratios and torque transmissions. Calculated and selected materials for clutch and brake. 3D modelled the housing of gear box.
 - [View Gearbox repository](#)
   
 ### 🔬 Dynamic analysis of vibration system (University project)
@@ -34,7 +34,7 @@ Analysis: SIMULINK
 
 ### 🪛 Robot manufature and troubleshoot (University Project)
 - Worked in groups of 4 to design and manufacture a robot to complete certain tasks.
-- 3D modelling, laser cutting, soldering
+- My role: Aided in 3D modelling, laser cutting and soldering of components. 
 - [View Robot manufacturing repository](#)
 
 ### 🔨 Work bench for early childhood kids (Highschool Project)
