@@ -51,13 +51,13 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - My role: Aided in 3D modelling, laser cutting and soldering of components. 
 - [View Robot manufacturing repository](https://github.com/Jamaal786/Robot-manufacture-and-troubleshoot)
 
-### Work bench for early childhood kids (Year 13 Highschool Project)
-- Designed and manufactured a work bench for the early childhood centre.
+### Work bench for early childcare centre (Year 13 Highschool Project)
+- Designed and manufactured a work bench for the early childcare centre.
 - Worked with a main client and stakeholders who worked in the centre.
 - [View work bench repository](https://github.com/Jamaal786/Work-bench-for-early-childhood-kids-)
 
-### Item storage for early childhood kids (Year 12 Highschool Project)
-- Designed and manufactured an item storage for the early childhood centre.
+### Item storage for early childcare centre (Year 12 Highschool Project)
+- Designed and manufactured an item storage for the early childcare centre.
 - Worked with a main client and stakeholders who worked in the centre.
 - [View item storage repository](https://github.com/Jamaal786/Item-storage-for-early-childhood-kids)
 
