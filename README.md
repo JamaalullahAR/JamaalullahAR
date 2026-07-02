@@ -25,11 +25,18 @@ Manufacturing: 3D printing, CNC machining, Welding, Soldering <br>
 Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, materials and machine principles, ANSYS FEA. <br>
 
 ## Featured Projects
-
 <!--- ###  Robotic helper arm (Personal Project)
 - Designed a 3D model of a mechanical robotic arm.
 - Calculate forces and types of stabilishing methods.
 - [View Robotic helper arm repository](https://github.com/Jamaal786/Robotic-Helper-Arm) -->
+
+### Analysis of a C channel (3rd year University project)
+
+### Design and analysis of a Bracket (3rd year University project)
+
+### Design and tuning a PID controller for a drone simulation (3rd year University project)
+
+### Design and manufacture 2 mechanical mechanisms to complete an objective (3rd year University project)
 
 
 
