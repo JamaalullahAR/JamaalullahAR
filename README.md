@@ -47,14 +47,14 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Analysed the drone dynamics from given block diagram, and formulated required transfer functions.
 - Built on the given simulink model to create a PID controller for the drone movements.
 - Tuned the controller to get the most stable output.
-- [View PID controller design repository]()
+- [View PID controller design repository](https://github.com/JamaalullahAR/Design-and-tuning-a-PID-controller)
 
-### Design and manufacture 2 mechanical mechanisms to complete an objective (3rd year University project)
+### Design and manufacture of 2 mechanical mechanisms to complete an objective (3rd year University project)
 - Designed 2 working mechanical mechanisms to carry out the specifications of the given brief.
 - Manufactured via 3D printing.
 - Prototyping multiple parts and mechanisms to create 2 working mechanisms.
 - Drew up an instruction manual for any user to be able to understand and assemble the whole mechanism.
-- [View mechanical meschanisms repository]()
+- [View mechanical meschanisms repository](https://github.com/JamaalullahAR/Design-and-manufacture-of-2-mechanical-mechanisms)
 
 ### VEX robot tasks (2nd year University project)
 - Worked in pairs with VEX robots to complete required tasks.
