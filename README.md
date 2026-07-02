@@ -22,7 +22,7 @@ I am a third year mechanical engineering at the University of Auckand. This is a
 CAD: Autodesk Inventor <br>
 Programming: C, MATLAB <br>
 Manufacturing: 3D printing, CNC machining, Welding, Soldering <br>
-Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, materials and machine principles.
+Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, materials and machine principles, ANSYS FEA. <br>
 
 ## Featured Projects
 
@@ -30,6 +30,8 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Designed a 3D model of a mechanical robotic arm.
 - Calculate forces and types of stabilishing methods.
 - [View Robotic helper arm repository](https://github.com/Jamaal786/Robotic-Helper-Arm) -->
+
+
 
 ### VEX robot tasks (2nd year University project)
 - Worked in pairs with VEX robots to complete required tasks.
