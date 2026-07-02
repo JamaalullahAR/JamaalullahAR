@@ -72,7 +72,7 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 ## Certfications
 - [MATLAB onramp certificate](https://github.com/Jamaal786/Professional-Certificates/blob/main/matlab%20onramp%20cert.pdf)
 - [SIMULINK onramp certificate](https://github.com/Jamaal786/Professional-Certificates/blob/main/simulink%20onramp%20cert.pdf)
-- [Deans Leadership Programme Core].()
+- [Deans Leadership Programme Core](https://github.com/JamaalullahAR/JamaalullahAR/blob/main/certs/DLP%20Core%20Certificates%202026%20(Muhammad%20Rahman).pdf)
 
 
 
