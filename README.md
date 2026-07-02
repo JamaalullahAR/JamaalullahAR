@@ -41,7 +41,7 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Used ANSYS FEA to verify if design could meet the specifications.
 - Worked with my partner to generate a G-code for CNC milling.
 - Final testing in UOA Newmarket campus with specified loads.
-- [View Design and analysis of a Bracket]()
+- [View Design and analysis of a Bracket](https://github.com/JamaalullahAR/Design-and-analysis-of-a-Bracket)
 
 ### Design and tuning a PID controller for a drone simulation (3rd year University project)
 - Analysed the drone dynamics from given block diagram, and formulated required transfer functions.
