@@ -34,7 +34,7 @@ Analysis: SIMULINK, Mechanical force calculations based on mechanics of solids, 
 - Used ANSYS FEA for stress analysis of a C channel beam across a UAV wing.
 - Used concepts of sustainability to identify the best material for manufacturing. 
 - FEA results used to conclude if the C channel was an appropriate shape for the task.
-- [View Analysis of a C channel repository]()
+- [View Analysis of a C channel repository](https://github.com/JamaalullahAR/Analysis-of-a-C-channel)
   
 ### Design and analysis of a Bracket (3rd year University project)
 - Designed a bracket using Inventor.
